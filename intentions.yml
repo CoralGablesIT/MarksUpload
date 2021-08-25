@@ -1,0 +1,594 @@
+---
+- get_financial_revenues:
+  - financial revenue
+  - capital improvement
+  - funding revenue
+  - receive revenue
+  - city revenue
+  - 'revenue '
+- get_financial_expenditures:
+  - 'financial expenditure '
+  - expense break
+  - city budget
+  - total salary
+  - department spend
+  - 'annual budget '
+  - departmental expense
+  - actual budget
+  - expenditure
+  - spend
+  - expense
+- get_property_tax_distribution:
+  - property tax distribution
+  - tax distribution
+  - property tax distribution per tax dollar
+  - tax distribution chart
+  - ''
+- get_passports_applications_dashboard:
+  - passports dashboard
+  - passports
+  - passport data
+  - passport historic data
+- get_city_lobbyists:
+  - city lobbyist
+  - lobbyist
+  - lobbyist principal
+  - lobbyist address
+  - lobbyist phone
+  - 'lobbyist contact '
+- get_city_elections:
+  - city election
+  - election dashboard
+  - election
+  - voter
+  - vote statistics
+  - election historic data
+- get_govqa_public_records_request:
+  - public record request
+  - citizen request center
+  - citizen request
+  - 'record request '
+- get_public_records:
+  - public records
+  - laserfiche
+  - laserfiche document center
+  - search resolution
+  - search ordinance
+  - search contract
+  - search minute
+- get_legislative_calendar_search:
+  - legislative calendar
+  - legislative agenda
+  - legislation calendar
+  - agenda
+  - board mettting
+  - committee meeting
+  - committee
+  - committee agenda. meeting location
+  - meeting date
+- get_building_permits:
+  - building permits
+  - permits
+  - permit inspector
+  - inspection work
+- get_citizen_request_center:
+  - citizen request center
+  - citizen request
+  - public record center
+  - request center
+  - public record
+  - parking meter hours
+  - parking citation
+  - pothole
+  - sinkhole
+  - standing water
+  - storm drain
+  - street ligth
+  - sidewalk issue
+  - municipal records
+  - permit records
+  - parcel records
+- get_police_to_citizen:
+  - police to citizen
+  - police data
+  - police information
+  - arrest
+  - bulletin
+  - residential security
+  - police reports
+- get_public_input:
+  - public input
+  - citizen engagement hub
+  - engagement hub
+  - find upcoming event
+  - share input topic
+  - recycling cardboard
+- get_waze_connected_citizen_coral_gables_portal:
+  - waze
+  - situational awareness dashboard
+  - traffic
+  - traffic analytic
+  - incidents
+  - traffic incidents
+  - reported incidents
+  - traffic jams
+  - jams
+  - crashes
+  - wheater
+  - public sentiment
+- get_citizen_engagement_survey:
+  - citizen engagement survey
+  - survey
+  - survey results
+  - community engagement survey
+- get_enews:
+  - enew sign
+  - city of coral gables news
+  - stay update
+  - sign up to stay updated
+  - coral gables news
+  - subscribe to coral gable news
+- get_public_works:
+  - 'public works '
+  - public works department
+  - sustainability
+  - sanitation division
+  - sustainable public infrastructure division
+  - utilities division
+  - landscape services division
+  - public works contact information
+- get_technology:
+  - technology
+  - information technology
+  - raimundo rodulfo
+  - smart city
+  - engineering framework
+  - virtual kiosk
+  - information technology strategic plan
+- get_coral_gables_virtual_tour:
+  - coral gables virtual tour
+  - virtual tour
+  - coral gables virtual
+  - coral gables tour
+- get_coral_gables_digital_collection:
+  - gable digital collection
+  - drawing property parcel
+  - aerial photograph
+  - currently historical document photograph
+  - oral history map
+- get_coral_gables_talking_book:
+  - talk book
+  - talking book
+  - coral gables talking book
+  - listen talking book
+- get_fiu_gis_center:
+  - fiu gis center
+  - gis advisory
+  - gis training
+  - esri virtual campus
+  - data management research
+  - fiu department
+  - web gis
+  - geo spatial
+  - gis course
+  - research laboratory
+  - lab instruction
+  - gis remote sensing
+  - gis certificate
+  - free workshop
+  - spatial modeling
+  - geo dataset
+  - gis data historical
+  - geoportal
+  - gis cartography
+  - mapping geography
+  - crime mapping
+  - gis introduction
+  - gis social research
+  - geospatial crime analysis
+  - geospatial tool
+  - fiu gis center
+  - fiu
+- get_get_the_city_app:
+  - city app
+  - city mobile
+  - city apps
+  - find the nearest parking spot
+  - search places in the city
+  - app store
+  - ios
+  - android
+  - traffix
+  - in-telligent
+  - safety alerts
+  - parking
+  - paybyphone
+  - parkme
+  - etaspot
+  - trolley
+  - ride free
+  - free ride
+  - freebee
+  - download app
+  - download city app
+- get_traffix_link_to_apple_and_google_stores:
+  - traffix
+  - traffix reporting app
+  - traffic issues
+  - coral gables traffix
+  - download traffix
+- get_saferwatch:
+  - saferwatch
+  - emergency
+  - saferwatch app
+  - public safety
+  - real time alert
+  - direct line police department
+  - individual report incident
+  - report crime suspicious activity
+  - download saferwatch
+- get_orchid_tracker:
+  - orchid tracker
+  - orchid
+  - native orchid restoration
+  - plant orchid
+  - orchid ecosystem
+  - orchid pollinator
+  - tracking million orchid
+  - planting orchid
+  - download orchid tracker
+- get_magical_park_app:
+  - magical park
+  - magical park app
+  - dinosaur
+  - robot
+  - park clean
+  - digital park
+  - interactive park
+- get_actionbound_app:
+  - actionbound
+  - actionbound app
+  - scavenger hunts
+  - scavenger
+  - digital content in the physical world
+- get_invoice_business_licenses:
+  - invoice
+  - business license
+  - business service licensing
+  - online renewal
+  - business tax
+  - certificate of use
+- get_permits:
+  - permit
+  - permit
+  - inspection
+  - permit inquiry
+  - track permits
+  - plan reviewers
+  - inspectors
+  - permit inspection
+  - permit inspection
+  - inspector plan
+  - inquiry parcel
+- get_property_leases:
+  - property lease
+  - property leases
+  - pay property leases
+  - stormwater
+  - special assessment
+- get_parks_and_recreation:
+  - park recreation
+  - parks and recreation
+  - parks
+  - recreation centers
+  - park location
+  - public parks
+- get_careers_in_coral_gables:
+  - careers
+  - carrer
+  - job
+  - job opportunities
+  - job listing
+  - carrer listing
+  - open jobs
+- get_vendors_and_bids:
+  - vendor
+  - vendor registration
+  - company info
+  - bid syndication
+  - government bid
+  - business opportunity
+  - bid board
+  - sell government
+  - public purchase
+  - bid classification
+- get_parking_permit_renewal:
+  - parking permit renewal
+  - parking renewal
+  - parking portal
+  - residential permit
+  - parking residential permit
+  - renewal parking residential
+- get_lobbyist_registration_portal:
+  - lobbyist registration portal
+  - lobbyist registration
+  - lobbyist signup
+  - lobbyist portal
+- get_city_employee_portal:
+  - city employee portal
+  - human resource city employee
+  - self service portal
+  - city employee
+- get_financial_transparency:
+  - financial transparency
+  - finance transparency
+  - transparency
+  - financial transparency platform
+  - citys budget
+- get_city_trees:
+  - city tree
+  - city trees
+  - tree maps
+  - view trees
+  - coral gables trees
+  - tree location
+- get_open_business_data:
+  - open business data
+  - attraction business directory
+  - attraction
+  - arts
+  - culture
+  - consular corps
+  - fitness
+  - golf
+  - tennis
+  - historical
+  - hospitals
+  - medical center
+  - worship
+  - spa
+  - hotel
+  - shop
+  - business directory
+  - place directory
+  - point of interes
+- get_parks:
+  - parks
+  - parks locations
+  - parks information
+  - parks maps
+  - coral gables parks
+- get_boundaries:
+  - city lights map
+  - waze activity
+  - land use
+  - boundary map
+  - telecom overlay
+  - fiber smart
+- get_business:
+  - bike stores
+  - charging stations
+  - fiber
+  - museum maps
+  - bicycle store
+  - charging stations map
+- get_health:
+  - stromwater
+  - litter
+  - litter zones
+  - stromwater location
+  - stromwater map
+  - stromwater zones
+- get_housing:
+  - sustainible living
+  - sustainible living map
+  - metro rail
+  - maintained roads
+  - trolley stops
+  - parking garages
+  - parking lots
+  - bicycle facilities
+  - bicycle path
+  - bike path
+  - 'bike routes '
+- get_giralda_avenue_promenade_smart_city_iot_sensors:
+  - giralda avenue
+  - smart city iot sensor
+  - giralda iot sensor
+  - giralda street
+  - giralda street sensors
+- get_waterway_gauge_iot_sensors_blue_road_and_cocoplum:
+  - waterway gauge iot sensor
+  - waterway gauge
+  - waterway sensor
+  - gauge sensor
+  - gauge iot sensor
+- get_discover_open_iot:
+  - thingful
+  - discover iot
+  - internet of things
+  - open iot sensors
+  - discover iot
+- get_suite_of_zoning_and_code_enforcement_web_applications_and_maps_in_a_convenient_dashboard.:
+  - suite zoning
+  - code enforcement
+  - code enforcement dashboard
+  - land use
+  - zoning
+  - parcel information center
+  - 'parcel information '
+- get_coral_gables_trolley_route:
+  - trolley route
+  - coral gables trolley route
+  - coral gables trolley
+- get_sustainable_living_web_app_for_the_city_of_coral_gables:
+  - sustainable living map
+  - sustainable living
+  - sustainable living zones
+  - sustainable living areas
+  - sustainable living locations
+  - parks
+  - green zones
+- get_locations_of_evehicle_charging_stations_in_and_around_coral_gables:
+  - location evehicle charge station
+  - charging station locations
+  - charging station map
+  - evehicle charge station
+  - electic car station
+  - electric car charging station
+  - electic car
+- get_properties_and_boundary_for_coral_gables_business_improvement_district.:
+  - business improvement district
+  - improvement district
+  - business district
+  - improvement district detail
+- get_locations_for_city_of_coral_gables_pet_waste_stations.:
+  - pet waste stations
+  - pet stations
+  - pet waste map
+  - pet waste location
+- get_this_scene_contains_several_3d_feature_class_of_buildings_and_monuments_throughout_the_city_of_coral_gables_in_florida:
+  - building
+  - monuments
+  - structures
+  - 3d structure
+  - 3d building
+- get_development_services:
+  - development services
+  - development projects
+  - development approved projects
+  - coral gables development projects
+- get_hurricane_irma_debris:
+  - hurricane irma
+  - debris
+  - debris map
+  - debris reporting
+  - debris zones
+- get_election_precincts:
+  - election precinct
+  - voting places
+  - voting map
+  - voting locations
+  - voting
+  - election day
+- get_city_street_lights:
+  - city street light
+  - street light locations
+  - street light maps
+- get_bicycle_routes:
+  - bicycle route
+  - bike routes
+  - bike paths
+  - bicycle master plan
+- get_historical_resources:
+  - historical
+  - historic districts
+  - historic properties
+  - historic map
+- get_city_services:
+  - city services
+  - city zones
+  - city neighborhood
+  - neighborhood team leaders
+  - code enforcement field supervisor
+  - code enforcement hotline
+  - fire inspector
+  - fire prevention clerk
+- get_election_demographics:
+  - election demographic
+  - election demographics
+  - election primary
+  - election biennial
+  - demographics history
+  - demographics
+- get_trolley_routes_and_stops:
+  - trolley route
+  - trolley stop
+  - stops location
+  - trolley route map
+- get_explore_coral_gables:
+  - explore coral gables
+  - storm
+  - surge damage
+  - evacuation centers
+  - hospitals
+  - schools
+  - roadways
+  - coastline
+  - gas stations
+- get_coral_gables_location:
+  - coral gables location
+  - city location
+  - coral gables map
+- get_waze_map:
+  - waze
+  - coral gables waze activity
+  - waze activity
+- get_property_story_map:
+  - property story
+  - property profile
+  - property lease agreement
+  - property management
+  - public property land
+  - property power storymap
+- get_broadband_availability:
+  - broadband availability
+  - broadband map
+  - broadband zones
+  - broadband
+  - internet access
+- get_community_vision_quality_places_for_people:
+  - community vision
+  - quality places
+  - original city plan
+  - coral way plazas
+  - biltmore way
+- get_multimodal_transportation_-_citywide_traffic_calming:
+  - multimodal transportation
+  - citywide traffic calm
+  - citywide traffic calming
+  - traffic calming zoning
+  - traffic calming map
+- get_flagler_section:
+  - flagler section
+  - flagler
+  - flager information
+  - flager section data
+  - flager section history
+- get_city_covid-19_response_application:
+  - covid19
+  - covid response
+  - covid19 response
+  - covid resources
+  - covid19 resources
+  - covid data
+  - covid cases
+  - covid deaths
+  - hospitalizations
+  - covid hospitalizations
+  - florida capacity
+  - covid
+  - covid19
+- get_master_planning_in_coral_gables:
+  - master planning
+  - coral gables planning
+  - coral gables master planning
+  - current master plans
+- get_smart_city_comp:
+  - smart city competition
+  - city competition
+- get_design_your_coral_gables_smart_city_solutions_contest_2019:
+  - design gable smart city solution contest
+  - smart city solution
+  - solution contest
+  - solution competition
+- get_giralda_plaza_in_a_smart_city:
+  - giralda plaza
+  - smart city giralda plaza
+  - giralda
+  - giralda plaza location
+- get_attractions_pictures:
+  - attraction pictures
+  - attraction pictures
+  - attractions photos
+  - attractions pics
